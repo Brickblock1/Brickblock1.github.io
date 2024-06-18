@@ -1,0 +1,30 @@
+.center{
+    text-align: center;
+    grid-column: 1 / 3;
+}
+h2{
+    text-align: center;
+    border-radius: 10px;
+    background-color: darkgrey;
+    margin: 5%;
+}
+body > div{
+    background-color: #3c3c3c80;
+    border-radius: 25px;
+    padding: 5px;
+}
+body{
+    background-color: #3c3c3c;
+    background-image: url(https://cdn.discordapp.com/attachments/853284744056799252/985627499264360588/brickblock1_Transport_1950-06-21.png?ex=66728963&is=667137e3&hm=e36b7d183621269c61d8a4848f7c7ded5e127b340cd70427305b70edcabea919&);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+*{
+    color: white;
+}
+p{
+    background-color: #3c3c3c80;
+    border-radius: 5px;
+    padding: 5px;
+    height: fit-content;
+}
